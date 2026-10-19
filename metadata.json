@@ -1,0 +1,6 @@
+{
+  "name": "FleetOps - Manajemen Kendaraan & BBM Operasional",
+  "description": "Sistem permohonan kendaraan dinas, pengajuan BBM, pelacakan lokasi GPS real-time, persetujuan otomatis cerdas, pengingat servis berkala, dan laporan efisiensi biaya bahan bakar bulanan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
